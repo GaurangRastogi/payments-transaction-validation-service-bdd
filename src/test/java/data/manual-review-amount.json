@@ -1,0 +1,11 @@
+{
+  "id": "456",
+  "payment_details": {
+    "amount": 7500,
+    "currency": "USD"
+  },
+  "metadata": {
+    "payer_account_location": "US",
+    "receiver_account_location": "US"
+  }
+}
